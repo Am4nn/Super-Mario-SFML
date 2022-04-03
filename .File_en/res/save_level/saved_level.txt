@@ -1,0 +1,601 @@
+Tile	Brick       9       4		null
+Tile	Brick       11       4		MediGrow
+Tile	Brick       7       4		null
+Tile	Brick       37       8		null
+Tile	Brick       38       8		null
+Tile	Brick       40       8		MediGrow
+Tile	Brick       52       4		null
+Tile	Brick       65       8		null
+Tile	Brick       70       8		null
+Tile	Brick       73       8		null
+Tile	Brick       127       5		null
+Tile	Brick       39       8		null
+Tile	Brick       71       5		null
+Tile	Brick       64       8		MediBult
+Tile	Brick       72       5		null
+Tile	Brick       129       5		null
+Tile	Brick       9       4		null
+Tile	Brick       11       4		null
+Tile	Brick       7       4		null
+Tile	Brick       37       8		null
+Tile	Brick       38       8		null
+Tile	Brick       40       8		null
+Tile	Brick       52       4		null
+Tile	Brick       65       8		null
+Tile	Brick       70       8		null
+Tile	Brick       73       8		null
+Tile	Brick       127       5		null
+Tile	Brick       39       8		null
+Tile	Brick       71       5		MediBult
+Tile	Brick       64       8		null
+Tile	Brick       72       5		null
+Tile	Brick       129       5		null
+Tile	Question       65       4
+Tile	Ground       0       0
+Tile	Ground       1       0
+Tile	Ground       2       0
+Tile	Ground       3       0
+Tile	Ground       4       0
+Tile	Ground       5       0
+Tile	Ground       6       0
+Tile	Ground       7       0
+Tile	Ground       8       0
+Tile	Ground       9       0
+Tile	Ground       10       0
+Tile	Ground       11       0
+Tile	Ground       12       0
+Tile	Ground       13       0
+Tile	Ground       14       0
+Tile	Ground       15       0
+Tile	Ground       16       0
+Tile	Ground       17       0
+Tile	Ground       18       0
+Tile	Ground       19       0
+Tile	Ground       20       0
+Tile	Ground       21       0
+Tile	Ground       22       0
+Tile	Ground       23       0
+Tile	Ground       24       0
+Tile	Ground       25       0
+Tile	Ground       26       0
+Tile	Ground       27       0
+Tile	Ground       28       0
+Tile	Ground       29       0
+Tile	Ground       32       0
+Tile	Ground       33       0
+Tile	Ground       34       0
+Tile	Ground       35       0
+Tile	Ground       36       0
+Tile	Ground       37       0
+Tile	Ground       38       0
+Tile	Ground       39       0
+Tile	Ground       40       0
+Tile	Ground       41       0
+Tile	Ground       42       0
+Tile	Ground       49       0
+Tile	Ground       50       0
+Tile	Ground       51       0
+Tile	Ground       52       0
+Tile	Ground       53       0
+Tile	Ground       54       0
+Tile	Ground       55       0
+Tile	Ground       56       0
+Tile	Ground       57       0
+Tile	Ground       58       0
+Tile	Ground       59       0
+Tile	Ground       60       0
+Tile	Ground       61       0
+Tile	Ground       62       0
+Tile	Ground       63       0
+Tile	Ground       64       0
+Tile	Ground       65       0
+Tile	Ground       66       0
+Tile	Ground       67       0
+Tile	Ground       68       0
+Tile	Ground       69       0
+Tile	Ground       70       0
+Tile	Ground       0       0.5
+Tile	Ground       1       0.5
+Tile	Ground       2       0.5
+Tile	Ground       3       0.5
+Tile	Ground       4       0.5
+Tile	Ground       5       0.5
+Tile	Ground       6       0.5
+Tile	Ground       7       0.5
+Tile	Ground       8       0.5
+Tile	Ground       9       0.5
+Tile	Ground       10       0.5
+Tile	Ground       11       0.5
+Tile	Ground       12       0.5
+Tile	Ground       13       0.5
+Tile	Ground       14       0.5
+Tile	Ground       15       0.5
+Tile	Ground       16       0.5
+Tile	Ground       17       0.5
+Tile	Ground       18       0.5
+Tile	Ground       19       0.5
+Tile	Ground       20       0.5
+Tile	Ground       21       0.5
+Tile	Ground       22       0.5
+Tile	Ground       23       0.5
+Tile	Ground       24       0.5
+Tile	Ground       25       0.5
+Tile	Ground       26       0.5
+Tile	Ground       27       0.5
+Tile	Ground       28       0.5
+Tile	Ground       29       0.5
+Tile	Ground       32       0.5
+Tile	Ground       33       0.5
+Tile	Ground       34       0.5
+Tile	Ground       35       0.5
+Tile	Ground       36       0.5
+Tile	Ground       37       0.5
+Tile	Ground       38       0.5
+Tile	Ground       39       0.5
+Tile	Ground       40       0.5
+Tile	Ground       41       0.5
+Tile	Ground       42       0.5
+Tile	Ground       49       0.5
+Tile	Ground       50       0.5
+Tile	Ground       51       0.5
+Tile	Ground       52       0.5
+Tile	Ground       53       0.5
+Tile	Ground       54       0.5
+Tile	Ground       55       0.5
+Tile	Ground       56       0.5
+Tile	Ground       57       0.5
+Tile	Ground       58       0.5
+Tile	Ground       59       0.5
+Tile	Ground       60       0.5
+Tile	Ground       61       0.5
+Tile	Ground       62       0.5
+Tile	Ground       63       0.5
+Tile	Ground       64       0.5
+Tile	Ground       65       0.5
+Tile	Ground       66       0.5
+Tile	Ground       67       0.5
+Tile	Ground       68       0.5
+Tile	Ground       69       0.5
+Tile	Ground       70       0.5
+Tile	Question       4       4
+Tile	Question       8       4
+Tile	Question       10       4
+Cutter       25.15       3.375
+Tile	PipeMid       25       1.5
+Tile	Block       37       4
+Tile	Block       38       4
+Tile	Block       39       4
+Tile	Block       40       4
+Tile	Block       41       4
+Tile	Question       39       10
+Tile	Block       46       8
+Tile	PipeTall       49       1.5
+Tile	Block       45       9
+Tile	Block       32.5       7
+Tile	Block       41       8
+Tile	Question       56       5
+Tile	Question       59       5
+Tile	Question       59       9
+Tile	Block       53       4
+Tile	Question       71       8
+Tile	Question       72       8
+Tile	Ground       71       0
+Tile	Ground       71       0.5
+Tile	Ground       72       0
+Tile	Ground       72       0.5
+Tile	Ground       73       0
+Tile	Ground       73       0.5
+Tile	Ground       74       0
+Tile	Ground       74       0.5
+Tile	Ground       75       0
+Tile	Ground       75       0.5
+Tile	Ground       76       0
+Tile	Ground       76       0.5
+Tile	Ground       77       0
+Tile	Ground       77       0.5
+Tile	Ground       78       0
+Tile	Ground       79       0.5
+Tile	Ground       80       0
+Tile	Ground       81       0
+Tile	Ground       78       0.5
+Tile	Ground       79       0
+Tile	Ground       80       0.5
+Tile	Ground       81       0.5
+Tile	Ground       82       0.5
+Tile	Ground       82       0
+Tile	Ground       83       0.5
+Tile	Ground       83       0
+Tile	Ground       84       0.5
+Tile	Ground       84       0
+Tile	Ground       85       0.5
+Tile	Ground       85       0
+Tile	Ground       86       0.5
+Tile	Ground       86       0
+Tile	Ground       87       0.5
+Tile	Ground       87       0
+Tile	Ground       88       0.5
+Tile	Ground       88       0
+Tile	Block       76       1.5
+Tile	Block       77       1.5
+Tile	Block       77       2.5
+Tile	Block       78       2.5
+Tile	Block       78       3.5
+Tile	Block       78       1.5
+Tile	Block       79       1.5
+Tile	Block       79       2.5
+Tile	Block       79       3.5
+Tile	Block       79       4.5
+Tile	Block       82       1.5
+Tile	Block       82       2.5
+Tile	Block       82       3.5
+Tile	Block       82       4.5
+Tile	Block       83       3.5
+Tile	Block       83       2.5
+Tile	Block       83       1.5
+Tile	Block       84       2.5
+Tile	Block       84       1.5
+Tile	Block       85       1.5
+Tile	Block       106       1.5
+Tile	Block       107       1.5
+Tile	Block       107       2.5
+Tile	Block       108       2.5
+Tile	Block       108       3.5
+Tile	Block       108       1.5
+Tile	Block       109       1.5
+Tile	Block       109       2.5
+Tile	Block       109       3.5
+Tile	Block       109       4.5
+Tile	Block       113       1.5
+Tile	Block       115       2.5
+Tile	Block       114       3.5
+Tile	Block       113       4.5
+Tile	Block       113       3.5
+Tile	Block       113       2.5
+Tile	Block       114       1.5
+Tile	Block       114       2.5
+Tile	Block       115       1.5
+Tile	Block       116       1.28125
+Tile	Question       71.5       11
+Tile	Ground       89       0.5
+Tile	Ground       89       0
+Tile	Ground       90       0.5
+Tile	Ground       90       0
+Tile	Ground       91       0.5
+Tile	Ground       91       0
+Tile	Ground       92       0.5
+Tile	Ground       93       0.5
+Tile	Ground       94       0.5
+Tile	Ground       94.5       0.5
+Tile	Ground       95       0.5
+Tile	Ground       95       0.5
+Tile	Ground       96       0.5
+Tile	Ground       96.5       0.5
+Tile	Ground       97       0.5
+Tile	Ground       98       0.5
+Tile	Ground       99       0.5
+Tile	Ground       100       0.5
+Tile	Ground       92       0
+Tile	Ground       93       0
+Tile	Ground       101       0.5
+Tile	Ground       102       0.5
+Tile	Ground       103       0.5
+Tile	Ground       104       0.5
+Tile	Ground       105       0.5
+Tile	Ground       94       0
+Tile	Ground       95       0
+Tile	Ground       96       0
+Tile	Ground       97       0
+Tile	Ground       98       0
+Tile	Ground       99       0
+Tile	Ground       100       0
+Tile	Ground       101       0
+Tile	Ground       102       0
+Tile	Ground       103       0
+Tile	Ground       104       0
+Tile	Ground       105       0
+Tile	Ground       106       0.5
+Tile	Ground       107       0.5
+Tile	Ground       109       0.5
+Tile	Ground       108       0.5
+Tile	Ground       106       0
+Tile	Ground       107       0
+Tile	Ground       108       0
+Tile	Ground       109       0
+Tile	Ground       113       0.5
+Tile	Ground       113       0
+Tile	Ground       114       0.5
+Tile	Ground       114       0
+Tile	Ground       115       0.5
+Tile	Ground       115       0
+Tile	Ground       116       0.5
+Tile	Ground       116       0
+Tile	Ground       117       0.5
+Tile	Ground       117       0
+Tile	Ground       118       0.5
+Tile	Ground       118       0
+Tile	Ground       119       0.5
+Tile	Ground       120       0.5
+Tile	Ground       121       0.5
+Tile	Ground       122       0.5
+Tile	Ground       122       0
+Tile	Ground       121       0
+Tile	Ground       119       0
+Tile	Ground       120       0
+Tile	Ground       123       0
+Tile	Ground       123       0.5
+Tile	Ground       124       0
+Tile	Ground       124       0.5
+Tile	Ground       125       0.5
+Tile	Ground       125       0
+Tile	Ground       126       0.5
+Tile	Ground       126       0
+Tile	Ground       127       0.5
+Tile	Ground       127       0
+Tile	Ground       128       0.5
+Tile	Ground       128       0
+Tile	Ground       129       0.5
+Tile	Ground       129       0
+Tile	Ground       130       0.5
+Tile	Ground       130       0
+Tile	Ground       131       0.5
+Tile	Ground       131       0
+Cutter       120.15       3.375
+Tile	PipeMid       120       1.5
+Tile	PipeTall       123       1.5
+Cutter       132.15       3.375
+Tile	PipeMid       132       1.5
+Tile	Ground       132       0.5
+Tile	Ground       132       0
+Tile	Ground       133       0.5
+Tile	Ground       133       0
+Tile	Ground       134       0.5
+Tile	Ground       134       0
+Tile	Ground       135       0.5
+Tile	Ground       135       0
+Tile	Ground       136       0.5
+Tile	Ground       136       0
+Tile	Ground       137       0.5
+Tile	Ground       137       0
+Tile	Ground       138       0.5
+Tile	Ground       138       0
+Tile	Ground       139       0.5
+Tile	Ground       139       0
+Tile	Ground       140       0.5
+Tile	Ground       140       0
+Tile	Ground       141       0.5
+Tile	Ground       141       0
+Tile	Ground       142       0.5
+Tile	Ground       142       0
+Tile	Ground       143       0.5
+Tile	Ground       143       0
+Tile	Ground       144       0.5
+Tile	Ground       144       0
+Tile	Block       133       1.5
+Tile	Block       134       2.5
+Tile	Block       135       3.5
+Tile	Block       136       4.5
+Tile	Block       137       5.5
+Tile	Block       138       6.5
+Tile	Block       139       7.5
+Tile	Block       140       8.5
+Tile	Block       141       8.5
+Tile	Block       141       7.5
+Tile	Block       141       6.5
+Tile	Block       139       5.5
+Tile	Block       139       6.5
+Tile	Block       139       4.5
+Tile	Block       134       1.5
+Tile	Block       135       1.5
+Tile	Block       136       1.5
+Tile	Block       137       1.5
+Tile	Block       138       1.5
+Tile	Block       139       1.5
+Tile	Block       141       5.5
+Tile	Block       141       4.5
+Tile	Block       141       3.5
+Tile	Block       141       2.5
+Tile	Block       141       1.5
+Tile	Block       140       1.5
+Tile	Block       139       3.5
+Tile	Block       139       2.5
+Tile	Block       140       7.5
+Tile	Block       140       6.5
+Tile	Block       140       5.5
+Tile	Block       140       4.5
+Tile	Block       140       3.5
+Tile	Block       138       4.5
+Tile	Block       138       5.5
+Tile	Block       140       2.5
+Tile	Block       137       4.5
+Tile	Block       136       3.5
+Tile	Block       135       2.5
+Tile	Block       136       2.5
+Tile	Block       137       3.5
+Tile	Block       137       2.5
+Tile	Block       138       3.5
+Tile	Block       138       2.5
+Tile	Ground       145       0
+Tile	Ground       145       0.5
+Tile	Ground       146       0.5
+Tile	Ground       147       0.5
+Tile	Ground       148       0.5
+Tile	Ground       149       0.5
+Tile	Ground       150       0.5
+Tile	Ground       151       0.5
+Tile	Ground       146       0
+Tile	Ground       147       0
+Tile	Ground       148       0
+Tile	Ground       149       0
+Tile	Ground       150       0
+Tile	Ground       151       0
+Tile	Block       145.5       1.5
+Tile	Pole       147       2.5
+Tile	Pole       147       3
+Tile	Pole       147       3.5
+Tile	Pole       147       4
+Tile	Pole       147       4.5
+Tile	Pole       147       5
+Tile	Pole       147       5.5
+Tile	Pole       147       6
+Tile	Pole       147       6.5
+Tile	Pole       147       7
+Tile	Pole       147       7.5
+Tile	Pole       147       8
+Tile	Pole       147       8.5
+Tile	PoleTop       146.923       9
+Tile	Flag       147.094       8.5
+Dec		House       148       1.265
+Tile	Ground       152       0.5
+Tile	Ground       152       0
+Tile	Ground       153       0.5
+Tile	Ground       153       0
+Tile	Ground       154       0.5
+Tile	Ground       154       0
+Tile	Ground       155       0.5
+Tile	Ground       155       0
+Tile	Ground       156       0.5
+Tile	Ground       156       0
+Tile	Ground       157       0.5
+Tile	Ground       157       0
+Tile	Ground       158       0.5
+Tile	Ground       158       0
+Tile	Ground       159       0.5
+Tile	Ground       159       0
+Tile	Ground       160       0.5
+Tile	Ground       160       0
+Tile	Ground       161       0.5
+Tile	Ground       161       0
+Tile	Ground       162       0.5
+Tile	Ground       162       0
+Tile	Ground       163       0.5
+Tile	Ground       163       0
+Tile	Ground       164       0.5
+Tile	Ground       164       0
+Tile	Ground       165       0.5
+Tile	Ground       165       0
+Tile	Ground       166       0.5
+Tile	Ground       166       0
+Dec		CloudBig       0.296875       9
+Dec		CloudBig       23.5       10
+Dec		CloudSmall       6       9.29688
+Dec		CloudSmall       12       10.2656
+Dec		Bush       0       1.5
+Dec		Bush       18       1.5
+Dec		CloudBig       18       9
+Dec		Bush       26       1.5
+Dec		CloudBig       30.2812       9.5
+Dec		CloudBig       36       10.7422
+Dec		CloudSmall       42.7031       11.2812
+Dec		CloudSmall       46.5       10.7344
+Dec		CloudSmall       50       9.73438
+Dec		Bush       32       1.5
+Dec		Bush       50       1.5
+Dec		CloudBig       61       11
+Dec		CloudSmall       53       9
+Dec		CloudSmall       56.5       10.5
+Dec		CloudBig       67       9.71094
+Dec		CloudBig       76.5       10
+Dec		CloudBig       82       10
+Dec		Bush       80       1.5
+Dec		CloudSmall       79       10
+Dec		CloudSmall       76       10
+Dec		CloudSmall       77       10.5
+Dec		CloudSmall       83       10.5
+Dec		CloudSmall       82       10
+Dec		CloudSmall       84.2969       10
+Dec		CloudBig       87.6875       9
+Dec		CloudBig       95.5       9
+Dec		CloudBig       100.656       10.5
+Dec		CloudBig       103.281       9
+Dec		CloudBig       108.5       9
+Dec		CloudBig       114       7.5
+Dec		Bush       117       1.5
+Dec		Bush       130       1.5
+Dec		CloudBig       124       9.74219
+Dec		CloudSmall       122       8
+Dec		CloudSmall       130       10.2656
+Dec		CloudSmall       132       8.34375
+Dec		CloudBig       135.5       10.5
+Dec		Bush       143       1.5
+Dec		Bush       142       1.5
+Dec		CloudBig       144.5       10
+Dec		CloudSmall       147.672       10.5
+Dec		CloudSmall       147.5       10
+Dec		CloudSmall       146.734       9.5
+Dec		CloudSmall       149.5       10
+Dec		CloudBig       151.5       9.74219
+Dec		CloudBig       159.5       9.71094
+Dec		CloudSmall       118.5       9.5
+Dec		CloudSmall       112       10.3281
+Dec		CloudSmall       107       9.5
+Dec		CloudSmall       112       8.70312
+Dec		CloudSmall       89.5       9
+Dec		CloudSmall       95.5       10
+Dec		CloudSmall       97.5       8.71875
+Dec		CloudSmall       103       9
+Dec		CloudSmall       91.5       10
+Dec		CloudSmall       87.6719       10
+Dec		CloudSmall       69       9.5
+Dec		CloudSmall       69.5       10
+Dec		CloudSmall       61.5       10.5
+Dec		CloudSmall       61       11
+Dec		CloudBig       51.5       10.5
+Dec		CloudSmall       46       9
+Dec		CloudSmall       25.6875       10
+Dec		CloudSmall       26.5       9.67188
+Dec		CloudSmall       27.5       10.7188
+Dec		CloudSmall       28.3438       10
+Dec		CloudSmall       32.6562       10
+Dec		CloudSmall       32.5       9.5
+Dec		CloudSmall       17.5       10
+Dec		CloudSmall       18       9.29688
+Dec		CloudSmall       20       9
+Dec		CloudSmall       2       9
+Dec		CloudBig       12       10.5
+Dec		CloudSmall       14.5       11
+Dec		CloudSmall       0.265625       9
+Dec		Bush       12       1.5
+Dec		Bush       74       1.5
+Dec		Bush       88       1.5
+Dec		Bush       101       1.5
+Dec		Bush       95       1.5
+Tile	Question       9       8
+Tile	Question       128       5
+Tile	Block       146.5       1.5
+Tile	Block       147.5       1.5
+Dec		Bush       155.5       1.5
+NPC_conics		3       NPC_conics       5.78125       1.5
+NPC_conics		3       NPC_conics       1.71875       1.5
+NPC_conics		3       NPC_conics       19.1562       1.5
+NPC_conics		3       NPC_conics       64.7812       1.5
+NPC_conics		3       NPC_conics       65.7812       1.5
+NPC_conics		3       NPC_conics       64.7812       9
+NPC_conics		3       NPC_conics       81.2812       1.5
+NPC_conics		3       NPC_conics       91.7812       1.5
+NPC_conics		3       NPC_conics       103.781       1.5
+NPC_conics		3       NPC_conics       93.7188       1.5
+NPC_conics		3       NPC_conics       118.812       1.5
+NPC_conics		3       NPC_conics       122.281       1.5
+NPC_conics		3       NPC_conics       128.156       1.5
+NPC_conics		3       NPC_conics       66.1641       1.5
+NPC_conics		3       NPC_conics       63.7188       1.5
+NPC_conics		3       NPC_conics       100.875       1.5
+NPC_conics		3       NPC_conics       124.75       1.5
+NPC_conics		3       NPC_conics       133.242       2.5
+NPC_conics		3       NPC_conics       26.8047       1.5
+NPC_conics		3       NPC_conics       21.5       1.5
+NPC_conics		3       NPC_conics       3.75       1.5
+Tile	Block       63       8
+Cutter       14.15       2.4375
+Tile	PipeSmall       14       1.5
+Tile	PipeTall       29       1.5
+Cutter       20.15       2.375
+Tile	PipeSmall       20       1.5
+Tile	Block       66       8
+Cutter       63.15       9.875
+Tile	PipeSmall       63       9
+Cutter       66.15       9.875
+Tile	PipeSmall       66       9
+Tile	Question       62       5
+
+Player  20.6562 4.26562 48 48 5 -20 20 0.75 Buster

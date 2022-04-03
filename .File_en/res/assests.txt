@@ -1,0 +1,86 @@
+Texture		TexStand		res/images/mario/stand.png
+Texture		TexRun		res/images/mario/run.png
+Texture		TexAir		res/images/mario/air.png
+Texture		TexStandBig	res/images/mario/stand_big.png
+Texture		TexRunBig	res/images/mario/run_big.png
+Texture		TexAirBig		res/images/mario/air_big.png
+Texture		TexBuster		res/images/mario/buster.png
+Texture		TexExplode	res/images/mario/explosion.png
+Texture		TexCoin		res/images/mario/coinspin.png
+Texture		TexBrick		res/images/mario/brick.png
+Texture		TexQ		res/images/mario/qfade.png
+Texture		TexQ2		res/images/mario/question2.png
+Texture		TexPipeS		res/images/mario/pipesmall.png
+Texture		TexPipeM		res/images/mario/pipemid.png
+Texture		TexPipeT		res/images/mario/pipetall.png
+Texture		TexCloudB	res/images/mario/cloudbig.png
+Texture		TexCloudS	res/images/mario/cloudsmall.png
+Texture		TexBush		res/images/mario/bush.png
+Texture		TexBushBig	res/images/mario/bushbig.png
+Texture		TexGround	res/images/mario/ground.png
+Texture		TexBlock		res/images/mario/block.png
+Texture		TexPole		res/images/mario/flagpole.png
+Texture		TexPoleTop	res/images/mario/flagtop.png
+Texture		TexFlag		res/images/mario/flag.png
+Texture		TexSky		res/images/Backgrounds/sky.png
+Texture		TexCastle		res/images/Backgrounds/Castle.png
+Texture		TexCrossX	res/images/mario/crossX.png
+Texture		TexNPCConics	res/images/mario/npc_conics.png
+Texture		TexTheEnd	res/images/mario/ending_notsoonpro.png
+Texture		TexchaptaNPCConics  	res/images/mario/chapta_npc_conic.png
+Texture		TexHouse		res/images/mario/house.png
+Texture		TexCutter		res/images/mario/pipe_cutters.png
+Texture		TexMediGrow	res/images/mario/medicine_grow.png
+Texture		TexMediBult	res/images/mario/medicine_bullet.png
+Texture		TexScoreBoard	res/images/mario/scoreBoard.png
+Texture		TexScorePic	res/images/mario/marioScorePic.png
+
+Animation 	Stand		TexStand 		1               0
+Animation 	Run		TexRun		3 	10
+Animation	 	Air		TexAir		1	0
+Animation 	StandBig		TexStandBig	1               0
+Animation 	RunBig		TexRunBig	3 	10
+Animation	 	AirBig		TexAirBig		1	0
+Animation 	Buster		TexBuster 	2	4
+Animation 	Explosion		TexExplode 	3	8
+Animation		Coin		TexCoin		4	8
+Animation 	Question 		TexQ		4	10
+Animation 	Brick		TexBrick		1	0
+Animation 	Question2 	TexQ2		1	0
+Animation 	PipeTall		TexPipeT		1	0
+Animation 	PipeMid		TexPipeM		1	0
+Animation 	PipeSmall 	TexPipeS		1	0
+Animation 	CloudBig 		TexCloudB 	1	0
+Animation 	CloudSmall	TexCloudS	1	0
+Animation 	Bush		TexBush		1	0
+Animation 	BushBig 		TexBushBig 	1 	0
+Animation 	Ground		TexGround	1	0
+Animation 	Block		TexBlock		1	0
+Animation 	Flag		TexFlag 		4 	8
+Animation 	Pole		TexPole 		1 	0
+Animation 	PoleTop		TexPoleTop 	1  	0
+Animation		Sky		TexSky		1	0
+Animation		Castle		TexCastle		1	0
+Animation		CrossX		TexCrossX	1	0
+Animation		NPC_conics	TexNPCConics	2	4
+Animation		TheEnd		TexTheEnd	1	0
+Animation		Chapta_NPC_conics	TexchaptaNPCConics	1	0
+Animation		House		TexHouse 	8	16
+Animation		Cutter		TexCutter		2	10
+Animation		MediGrow		TexMediGrow	2	4
+Animation		MediBult		TexMediBult	3	6
+Animation		ScoreBoard	TexScoreBoard	1	0
+Animation		ScorePic		TexScorePic	1	0
+
+Font 		Arial                     	res/fonts/arial.ttf
+Font		Score		res/fonts/score_font.ttf
+Font		Menu		res/fonts/menu_font.ttf
+Font		Name		res/fonts/name.ttf
+Font		Title		res/fonts/title.ttf
+
+Font		Super		res/fonts/super.ttf
+Font		MarioT		res/fonts/marioType.ttf
+ShaderFrag  	Blinking		res/shaders/blinking_frag.glsl
+ShaderFrag  	BlackSun		res/shaders/blackSun_frag.glsl
+ShaderFrag  	SkyOpen		res/shaders/skyOpen.glsl
+ShaderFrag  	PlayerTransition	res/shaders/playerTransition_frag.glsl

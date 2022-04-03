@@ -1,0 +1,9 @@
+main() : path file 
+
+class Entity check if error exists
+
+class Animation :
+	hasEnded()
+
+class Scene : 
+	void Scene::simulate(int simulationSpeed);
