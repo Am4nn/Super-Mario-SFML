@@ -3,7 +3,7 @@ To move in game use :
 'a'	    ->  to move left
 'd'	    ->  to move right
 'w'	    ->  to jump
-'space'	->  to shoot
+'space'	  ->  to shoot
 'z'	    ->  to save level
 'x'	    ->  to take screenshot
 't'	    ->  to toggle texture
