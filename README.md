@@ -1,6 +1,6 @@
 # Super-Mario-SFML
 
-A Game made using C++ and SFML <br>
+I developed a captivating 2D game titled 'Super Mario' using C++ and leveraged the SFML framework to craft an immersive user interface. Incorporating my expertise in shader programming, I added visually stunning effects to enhance the gaming experience <br>
 Preview of App : <br>
 
 https://user-images.githubusercontent.com/86537681/175118415-58676766-52ee-4ba5-81b9-06a24025ff45.mp4
